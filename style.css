@@ -1,0 +1,54 @@
+a {
+	color: #ff5100;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+aside{
+	float: left;
+	background: #87CEFA;
+	width: 30%;
+	min-height: 400px;
+}
+
+body {
+	margin: 0 0;
+	background:#ff5100;
+}
+
+.divider{
+	clear: both;
+}
+
+footer{
+	line-height: 50px;
+	text-align: center;
+	background:  #002792;
+	color: white;
+}
+
+h1 {
+	margin: 0 0;
+	color:white;
+}
+
+header{
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-align: center;
+	color: white;
+	background-image: linear-gradient(#962f00, #ff5100);
+}
+
+nav{
+	background: #002792;
+	padding: 10px 10px;
+}
+
+#content{
+	float: left;
+	width: 70%;
+	min-height: 400px;
+	background: #FFF8DC;
+}
